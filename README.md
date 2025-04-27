@@ -1,2 +1,2 @@
-# Coding-Pathshala
-I developed this Coding Pathshala using HTML,CSS and JavaScript.
+# Web-Pathshala
+I developed this Web Pathshala using HTML,CSS and JavaScript.
